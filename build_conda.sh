@@ -6,4 +6,4 @@ conda-build . \
  -c https://conda.anaconda.org/bioconda \
  -c https://conda.anaconda.org/biocore \
  --override-channels \
- --python 3.5
+ --python 3.6
